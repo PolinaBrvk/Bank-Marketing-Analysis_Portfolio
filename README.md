@@ -41,10 +41,16 @@ Regarding the calls and their duration, longer conversations (10+ minutes) have 
 - Create strategies for different education/job groups to increase subscription groups
 
 ---
-For this analysis was used:
+## Project files:
 - **Excel** – data cleaning, pivot tables, initial exploration for further analysis. 
 - **SQL** – querying, aggregation, campaign analysis.
 - **Tableau** – dashboards, segmentation analysis, visual storytelling 
+
+### SQL script
+- `queries.sql` 
+
+
+
 
 
 
