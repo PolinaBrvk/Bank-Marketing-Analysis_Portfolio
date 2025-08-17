@@ -54,9 +54,10 @@ Regarding the calls and their duration, longer conversations (10+ minutes) have 
 
 ### CSV files
 - <a href="https://github.com/PolinaBrvk/Bank-Marketing-Analysis_Portfolio/blob/597838b2c1e1613422a349b6803b35489077a69d/bank-marketing-campaign-raw.csv"> The original CSV file -Portuguese bank campaign dataset from UCI</a>
--
+- <a href="https://github.com/PolinaBrvk/Bank-Marketing-Analysis_Portfolio/blob/ca245dbc8e740c84b623dfd5ef123f81a1126f80/Bank_Campaign_Analysis_2025-06.csv"> The cleaned CSV file </a>
 
-
+### Tableau
+- 
 
 
 
