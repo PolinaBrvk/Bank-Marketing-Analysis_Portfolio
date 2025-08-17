@@ -46,8 +46,12 @@ Regarding the calls and their duration, longer conversations (10+ minutes) have 
 - **SQL** – querying, aggregation, campaign analysis.
 - **Tableau** – dashboards, segmentation analysis, visual storytelling 
 
+### Excel 
+- ` `
+
 ### SQL script
-- `queries.sql` 
+- `https://github.com/PolinaBrvk/Bank-Marketing Analysis_Portfolio/blob/b47c7dca6c57b105f3f16dc359239b948d458191/bank_marketing_analysis.sql.txt` 
+
 
 
 
