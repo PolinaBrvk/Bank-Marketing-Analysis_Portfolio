@@ -53,7 +53,9 @@ Regarding the calls and their duration, longer conversations (10+ minutes) have 
 - <a href="https://github.com/PolinaBrvk/Bank-Marketing Analysis_Portfolio/blob/b47c7dca6c57b105f3f16dc359239b948d458191/bank_marketing_analysis.sql.txt"> SQL script</a>
 
 ### CSV files
-- 
+- <a href="https://github.com/PolinaBrvk/Bank-Marketing-Analysis_Portfolio/blob/597838b2c1e1613422a349b6803b35489077a69d/bank-marketing-campaign-raw.csv"> The original CSV file -Portuguese bank campaign dataset from UCI</a>
+-
+
 
 
 
