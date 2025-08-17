@@ -47,7 +47,7 @@ Regarding the calls and their duration, longer conversations (10+ minutes) have 
 - **Tableau** – dashboards, segmentation analysis, visual storytelling 
 
 ### Excel 
-- ` `
+- <a href="https://github.com/PolinaBrvk/Bank-Marketing-Analysis_Portfolio/blob/85e0024ae769f605a586cc089b4e23a3c95e57fb/Bank_Campaign_Analysis_2025-06.xlsx"> Excel Bank Marketing file</a>
 
 ### SQL script
 - `https://github.com/PolinaBrvk/Bank-Marketing Analysis_Portfolio/blob/b47c7dca6c57b105f3f16dc359239b948d458191/bank_marketing_analysis.sql.txt` 
